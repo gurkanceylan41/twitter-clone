@@ -1,9 +1,21 @@
-# React + Vite
+# Twitter Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Twitter clone web application built with React. This project replicates basic Twitter functionalities and features real-time updates using Firebase.
 
-Currently, two official plugins are available:
+# Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# twitter-clone
+- **Firebase:** For authentication, real-time database, and hosting.
+- **Moment:** For formatting and displaying timestamps.
+- **React Router DOM:** For routing and navigation.
+- **React Icons:** For using various icons throughout the application.
+- **React Toastify:** For displaying notifications.
+- **UUID:** For generating unique IDs.
+
+# Features
+
+- **User Authentication:** Sign up, log in, and log out functionality.
+- **Real-Time Tweets:** Post and view tweets in real-time.
+- **Responsive Design:** Fully responsive design for both desktop and mobile views.
+
+# Screen Gif: 
+![twitter](https://github.com/user-attachments/assets/d74b03ce-6fc4-4b80-9cb1-4f65e0dd58ed)
